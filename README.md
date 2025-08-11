@@ -12,12 +12,12 @@ End Date: (auto)
 
 | Day | Problem | Language | Status |
 
-|1|Chessboard  |java  |completed  |
+|-----|---------|-----------|--------|
 
 
 
 
 ## 📜 Progress Tracker
 | Day | Problem | Language | Status |
-|-----|---------|----------|--------|
+|1|Chessboard|java|completed|
 
