@@ -12,7 +12,7 @@ End Date: (auto)
 
 | Day | Problem | Language | Status |
 
-|-----|---------|----------|--------|
+|1|Chessboard  |java  |completed  |
 
 
 
