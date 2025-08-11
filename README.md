@@ -1,23 +1,3 @@
-\# 100-Day Coding Sprint by Unstop 🚀
+\# 100-Day Coding Sprint by Unstop
 
-
-
-Start Date: 11 Aug 2025  
-
-End Date: (auto)
-
-
-
-\## 📜 Progress Tracker
-
-| Day | Problem | Language | Status |
-
-|-----|---------|-----------|--------|
-
-
-
-
-## 📜 Progress Tracker
-| Day | Problem | Language | Status |
-|1|Chessboard|java|completed|
-
+Welcome to my 100-Day Coding Sprint journey! This repository documents my commitment to coding consistently for 100 days straight, improving my programming skills, and building amazing projects. This challenge is part of Unstop's initiative to encourage continuous learning and skill development in the tech community.
